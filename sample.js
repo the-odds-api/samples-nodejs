@@ -7,7 +7,7 @@ const api_key = process.argv[2] || 'YOUR_API_KEY'
 
 const sport_key = 'upcoming' // use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
 
-const region = 'uk' // uk | us | au
+const region = 'uk' // uk | us | eu | au
 
 const market = 'h2h' // h2h | spreads | totals
 
